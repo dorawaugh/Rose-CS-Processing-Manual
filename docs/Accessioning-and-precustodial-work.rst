@@ -423,7 +423,7 @@ much information about the collection and its transfer as you can at this stage.
 |                     | converted to dollars.                                        |
 |                     |                                                              |
 |                     | For example:                                                 |
-|                     | *   "Original price of £17,425 converted to American        | 
+|                     | *   "Original price of £17,425 converted to American.        |
 |                     |     dollars."                                                |
 |                     | *   "No new paperwork. Covered under original deed of        |
 |                     |     gift/sale."                                              |
