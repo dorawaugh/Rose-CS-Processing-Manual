@@ -339,7 +339,7 @@ accessioning team.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The system of record for accession information is the Accessions Database located on 
-the F: Drive at  ``F:/MARBL/Accession Database/Manuscript Accessions.mbd``  All new 
+the F: Drive at  ``F:/MARBL/Accession Database/Manuscript Accessions.mbd``.  All new 
 collection material receives a record in this database upon receipt. 
 
 **Navigating the Database and Using Microsoft Access**
@@ -473,8 +473,8 @@ much information about the collection and its transfer as you can at this stage.
 |                     | indicate whether the acquisition is a new collection or an   |
 |                     | addition to an existing collection.                          |
 |                     |                                                              |
-|                     | See :ref:`figure 2<figure-2.png>` and                        | 
-|                     | :ref:`figure 3<figure-3.png>`                                |
+|                     | See :ref:`figure 2<figure2>` and                             | 
+|                     | :ref:`figure 3<figure3>`                                     |
 |                     |                                                              |
 |                     | In some cases an addition to a collection will come from a   |
 |                     | different source or have a different provenance than the     |
@@ -506,15 +506,19 @@ much information about the collection and its transfer as you can at this stage.
 |*Accessioned By:*    | Add your initials.                                           |
 +---------------------+--------------------------------------------------------------+
 
-.. image:: figure2.png 
+.. _figure2:
 
-*Example of the Brief Description of Materials field to indicate the establishment of 
-a new collection.*
+.. figure:: figure2.png 
 
-.. image:: figure3.png 
+Figure 2: Example of the Brief Description of Materials field to indicate the 
+establishment of a new collection.
 
-*Example of the Brief Description of Materials field to indicate the addition to an 
-established collection.*
+.. _figure3:
+
+.. figure:: figure3.png 
+
+Figure 3: Example of the Brief Description of Materials field to indicate the 
+addition to an established collection.
 
 
 
