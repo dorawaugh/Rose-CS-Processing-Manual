@@ -362,6 +362,8 @@ much information about the collection and its transfer as you can at this stage.
 
 .. image:: figure1.png 
 
+*How to complete the accession record:*
+
 +---------------------+--------------------------------------------------------------+
 |*Accession Number:*  |	All collection material acquired by the Rose Library is      |
 |                     | assigned a unique accession number, consisting of the year,  |
@@ -423,7 +425,8 @@ much information about the collection and its transfer as you can at this stage.
 |                     | converted to dollars.                                        |
 |                     |                                                              |
 |                     | For example:                                                 |
-|                     | *   "Original price of £17,425 converted to American.        |
+|                     |                                                              |
+|                     | *   "Original price of £17,425 converted to American         |
 |                     |     dollars."                                                |
 |                     | *   "No new paperwork. Covered under original deed of        |
 |                     |     gift/sale."                                              |
@@ -470,7 +473,8 @@ much information about the collection and its transfer as you can at this stage.
 |                     | indicate whether the acquisition is a new collection or an   |
 |                     | addition to an existing collection.                          |
 |                     |                                                              |
-|                     | See :ref:`figure 2<figure-2>` and :ref:`figure 3<figure-3>`. |
+|                     | See :ref:`figure 2<figure-2.png>` and                        | 
+|                     | :ref:`figure 3<figure-3.png>`                                |
 |                     |                                                              |
 |                     | In some cases an addition to a collection will come from a   |
 |                     | different source or have a different provenance than the     |
