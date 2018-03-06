@@ -520,9 +520,169 @@ establishment of a new collection.
 Figure 3: Example of the Brief Description of Materials field to indicate the 
 addition to an established collection.
 
+**Finalizing the Record**
 
+When you have finished filling out the record, press the Save Record button. Use the 
+Print Record button to print at least two copies of the record, one for the 
+collection file and one for the accession files.
 
-						
+If you assigned a new manuscript number, press the Description Data button, then 
+click Fill Data, then Save. This creates an entry in the database's Manuscript 
+Register.
+
+.. _Accessioning-digital-objects:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1.3.4 Accessioning Digital Objects
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+In order to ensure consistency across accession records, archivists should use the 
+:ref:`digital archives controlled vocabulary<Digital-archives-controlled-vocabulary>` 
+to describe digital objects.
+
+Typically, if we receive laptops or personal computers, we will only retain the 
+internal hard drive following processing. The Digital Archivist will send all other 
+hardware and casings to surplus. You should therefore describe laptops and computers 
+as "hard drives" in accession records (see the digital archives controlled vocabulary 
+below). If we do have reason to keep the entire computer (either because they feature 
+labels and markings intentionally added by the donor/creator that contribute 
+significant meaning or because the entire computer will be required in order to 
+access and transfer files), describe these as either "laptop computers" or 
+"microcomputers." Consult with the digital archivist if you are unsure of which term 
+to use.
+
+Apart from exceptional cases, you should not accession computer peripherals 
+(monitors, keyboards, etc.), networking hardware (routers, for example), and other 
+electronic components not used to store data unless:
+
+*	They feature labels and markings intentionally added by the donor/creator that 
+	contribute significant meaning to the collection. These should not be labels or 
+	markings that simply denote ownership or give instruction on use or function 
+	(e.g., "Dorothy's mouse" or "plug in here").
+*	In cases where the associated hardware is particularly old or obscure and it has 
+	been deemed likely, following consultation with a digital archivist, that this 
+	equipment will be required in order to access and transfer digital files from the 
+	associated hardware.
+	
+If you have questions about whether a digital object should be accessioned, consult 
+the digital archivist.
+
+**Accessioning Workflows**
+
+Like all collection material, born digital media and files should not be accessioned 
+until paperwork has been completed. The workflow will vary slightly depending on the 
+method of transfer or if the born digital material is part of a hybrid collection.  
+
+If a hybrid collection includes known born digital media and/or hardware:
+
+*	During the weekly accessioning meeting, the Accessioning and Collections Manager 
+	assigns hybrid collection to a member of the accessioning team. 
+*	The accessioning archivist adds information regarding any known born-digital 
+	media and/or hardware to the born-digital inventory, which is stored as a tab in 
+	the master shelf list.
+*	The accessioning archivist accessions the born-digital media and/or hardware with 
+	the rest of the collection, using the digital archives controlled vocabulary 
+	(listed below) to describe what is included.
+*	Archivists should keep smaller pieces of born-digital media such as floppy disks 
+	or flash drives with the collection when moved to the stacks. The Digital 
+	Archivist and Accessioning and Collections Manager will identify a storage 
+	location for computer towers and laptops.  The accessioning team member will 
+	shelve the computer and record the location in the born-digital inventory and the 
+	master shelf list.
+*	If it is a small amount of born digital material (i.e., less than 50 floppy 
+	disks), the accessioning archivist should create the disk images for the 
+	collection. This decision can be made in consultation with the digital 
+	archivist.
+	
+If a collection (or addition to a collection) is comprised exclusively of 
+born-digital media and/or hardware:
+
+*	The Accessioning and Collections Manager notifies and assigns accessioning 
+	responsibilities to the Digital Archivist. Born digital media and/or hardware is 
+	temporarily stored in the accessioning area until retrieved by the digital 
+	archivist for accessioning.
+*	The digital archivist accessions the born-digital media and/or hardware, using 
+	the :ref:`digital archives controlled 
+	vocabulary<Digital-archives-controlled-vocabulary>` to describe what is included.
+*	Where possible, the digital archivist will image disks and ingest disk images 
+	into the digital repository at the point of accessioning.
+*	The digital archivist adds information about the file transfer to the 
+	born-digital inventory, which is stored as a tab in the master shelf list. The 
+	archivist should also note whether they have ingested the material into the 
+	digital repository.
+*	The digital archivist creates BD box(es) for accessioned media, including hard 
+	drives removed from laptops and computer towers.  If it is not possible to remove 
+	a hard drive from its casing, the location of the hardware will be recorded on 
+	the master shelf list and the born digital inventory.
+	
+**NOTE:** If imaging is completed at the time of accessioning, born-digital media and 
+hardware can be transferred immediately to the LSC. 
+
+If a hybrid collection includes a file transfer:
+
+*	The receiving digital archivist notifies the Accessioning and Collections Manager 
+	that a file transfer has been received.
+*	The receiving digital archivist moves the transferred files to a temporary 
+	storage location on the digital archive lab's local hard drives. Due to 
+	preservation concerns, the digital archivist may ingest transferred files into 
+	the digital repository prior to the completion of accessioning.
+*	During the weekly accessioning meeting, the Accessioning and Collections Manager 
+	assigns hybrid collection to a member of the accessioning team. 
+*	The accessioning archivist adds information about the file transfer to the born 
+	digital inventory, and notes whether they have ingested the files into the 
+	digital repository.
+*	The accessioning archivist accessions the file transfer with the rest of the 
+	collection, using the term "Digital files" taken from the :ref:`digital archives 
+	controlled vocabulary<Digital-archives-controlled-vocabulary>` to describe what 
+	is included.
+	
+If a collection (or addition to a collection) is comprised exclusively of a file transfer:
+
+*	The receiving digital archivist notifies the Accessioning and Collections Manager 
+	that a file transfer has been received.
+*	During the weekly accessioning meeting, the Accessioning and Collections Manager 
+	assigns the collection to a digital archivist. 
+*	The digital archivist accessions the file transfer, using the term "Digital 
+	files" taken from the :ref:`digital archives 
+	controlled vocabulary<Digital-archives-controlled-vocabulary>` to describe 
+	what is included.
+*	The digital archivist ingests the transferred files into the digital repository.
+*	The digital archivist adds information about the file transfer to the 
+	born-digital inventory, and notes that files have been ingested into the digital 
+	repository.
+	
+.. _Digital-archives-controlled-vocabulary:
+
++-----------------------------------------------------------------------------------+
+| **Digital Archives Controlled Vocabulary**                                        |
++===================================================================================+
+| Compact disc     | Describes CDs (all types)                                      |
++------------------+----------------------------------------------------------------+
+| Digital files    | Describes files received via file transfer, as opposed to      |
+|                  | original media                                                 |
++------------------+----------------------------------------------------------------+
+| Disk drive       | Describes external hard drives and other types of portable,    |
+|                  | external drives, including flash drives                        |
++------------------+----------------------------------------------------------------+
+| DVD              | Describes DVDs                                                 |
++------------------+----------------------------------------------------------------+
+| Floppy disk      | Describes floppy disks (all sizes)                             |
++------------------+----------------------------------------------------------------+
+| Hard drive       | Describes external hard drives and other types of portable,    |
+| (external)       | external drives, including flash drives                        |
++------------------+----------------------------------------------------------------+
+| Hard drive       | Describes a hard drive that has been extracted from a tower or | 
+| (internal)       | laptop                                                         |
++------------------+----------------------------------------------------------------+
+| Laptop computers | Describes a complete laptop computer                           |
++------------------+----------------------------------------------------------------+
+| Microcomputers   | Describes personal computers and towers                        |
++------------------+----------------------------------------------------------------+
+| Monitor          | Describes computer monitors (and any other peripherals)        |
++------------------+----------------------------------------------------------------+
+| Zip disk         | Describes zip disks                                            |
++------------------+----------------------------------------------------------------+
+					
 
  
 
