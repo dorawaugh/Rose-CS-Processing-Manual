@@ -362,7 +362,7 @@ much information about the collection and its transfer as you can at this stage.
 
 .. image:: figure1.png 
 
-*How to complete the accession record:*
+**How to complete the accession record:**
 
 +---------------------+--------------------------------------------------------------+
 |*Accession Number:*  |	All collection material acquired by the Rose Library is      |
@@ -683,7 +683,223 @@ If a collection (or addition to a collection) is comprised exclusively of a file
 | Zip disk         | Describes zip disks                                            |
 +------------------+----------------------------------------------------------------+
 					
+.. _Creating-the-CL-2-file:
 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1.3.6 Creating the CL-2 file
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The permanent collection files document the history of a collection including, 
+solicitation, acquisition, processing, and later communications with the donor. They 
+will contain transfer paperwork such as deeds of gift or sale and supporting 
+documentation such as invoices, donor correspondence, paper inventories, and other 
+items that help the Rose Library manage and administer the collection. 
  
+When we receive a new collection, the accessioning archivist is responsible for 
+creating the collection file and adding a copy of the accession record and any other 
+collection documentation to the newly created file. The `collection file's label 
+<https://emory.box.com/s/44zvlovvklb77d58kz8w50u5pgkdn5b8>`_ should include the main 
+entry and the manuscript number.  The files are stored alphabetically by main entry.
+
+If you pull a collection file from the cabinet for longer than a brief time, you must 
+fill out an "out" card with the collection title, your name, and the date. When you 
+return the file, remove the out card and add the date you returned it. One might pull 
+a file while accessioning an addition, processing a collection, or to assist a 
+researcher.  Much of the information contained in the collection file is sensitive, 
+and the files are considered confidential. Biographical information, restrictions, 
+rights information, summary collection histories, and inventories may be shared with 
+students and researchers if appropriate. 
+
+**Electronic CL-2 File (Vital Docs File)**
+
+We also maintain an electronic vital documents folder which you will need to create 
+or update when accessioning a new acquisition. Vital documents include the accession 
+records, PRFs, invoices, appraisal reports, Deeds of Sale, Gift-in-Kind Contribution 
+Forms, and Deeds of Gift but do not include supplemental or secondary paperwork such 
+as one-pagers, inventories, and dealer descriptions. To update this file: 
+
+*	For new acquisitions:
+
+	*	Scan the vital documents.
+	*	Create a folder in ``F:/MARBL/CL-2 Vital Docs`` using the naming convention
+		"Main Entry MSS XXXX."
+	*	Title the document with the accession record number (e.g.
+		Year-Month-Accession Number) and save the PDF by in the new folder. 
+		
+*	For additions:
+
+	*	Scan the deed of gift/sale or the gift in kind form as a PDF. 
+	*	Title the document with the accession record number (e.g. 
+		Year-Month-Accession Number) and add to existing collection folder.  
+	*	If a folder does not exist, create a folder using the naming convention "Main 
+		Entry MSS XXXX," and add the existing file to that folder, as well as the new 
+		file just created, named with the accession number. 
+		
+.. _Accessioning-checklist:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1.3.7 Accessioning Checklist
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*	Create accession record
+*	Create CL-2 file (both paper and electronic)
+*	Arrange and rebox collection
+*	Create or update finding aid
+*	Encode finding aid
+*	Create or update catalog record
+*	Barcode box(es)
+*	Update information in Box folder with accesion number
+*	Add collection to shelf list
+
+.. _Stacks-management:
+
+----------------------
+1.4 Stacks Management
+----------------------
+
+The Accessioning and Collections Manager is responsible for maintaining the physical 
+spaces where collection material is housed. The Accessioning and Collections Manager 
+will periodically conduct inventories of these spaces and maintain shelf lists and 
+other documentation related to collection storage space. 
+
+We contract with Patterson Pope [LINK TO CONTACT INFO] for maintenance of shelving in 
+the stacks. If a compact shelving unit needs service, please notify the Accessioning 
+and Collections Manager who will contact the Facilities Coordinator, who will contact 
+Patterson Pope. During service calls, security will accompany service providers to 
+the floor.  
+
+^^^^^^^^^^^^^^^^^^^^^^
+1.4.1 Stack Locations
+^^^^^^^^^^^^^^^^^^^^^^
+
+We have five primary stacks locations:
+
+.. 1.	Book stacks 
+.. 2.	Manuscript stacks
+	
+.. 	*	This is the location for:
+		
+.. 		*	The majority of manuscript collections
+		*	EUA collections
+		*	Bound volumes from manuscript collections
+		
+.. 3.	The Nunnery
+
+.. 	*	This is the location for:
+		
+.. 		*	Additional manuscript collections
+		*	Vault materials
+		*	XOP materials
+		*	Born-digital media
+		*	Mold segregation shelving
+		*	Oversized bound volumes
+		
+.. 4.	The Abbey
+
+.. 	*	This is the location for:
+	
+.. 		*	OP materials
+		*	Additional bound volumes
+		*	Hanging art storage
+		*	Rolled storage
+		*	EUA XOP materials
+		*	Southern newspapers
+		
+.. 5.	Library Service Center
+
+We communicate stack locations by giving a range and bay for an item.
+
+*	Ranges are one side of an aisle.  These are numbered, and, in the book stacks, 	
+	also given an A or B designation.
+*	Bays are sections of shelving within the range.  The bays receive alphabetical 
+	designations.  When you are looking at a range the A bay will be on your left and 
+	proceed through the alphabet to your right.
+*	Shelves are the individual shelves within a bay.
+
+.. _Shelf-lists:
+
+^^^^^^^^^^^^^^^^^^
+1.4.1 Shelf Lists
+^^^^^^^^^^^^^^^^^^
+
+Collection Services and Emory University Archives staff manage the locations of all 
+Manuscript and Archival collections in an Excel spreadsheet located on Box [LINK]. 
+The shelf list is used to record the location and extent of each collection.  It 
+includes tabs for MSS collections, EUA collections, the born digital inventory, and 
+unaccessioned material.   All staff members and students have reading access to the 
+document, but only collections services and EUA staff can edit the shelf list.
+
+.. Please note that in addition to the Rose stacks and the LSC, the Rose has material 
+stored at CV Fine Art Storage and in dark storage at Access.  The University Records 
+Manager places all requests to retrieve material from Access.  Our contact to 
+retrieve material at CV Fine Art is Steve Cyr, and his extension is 143. The main 
+phone number is 404-733-6200.
+
+The shelf list should be updated:
+
+*	When a new collection is accessioned (physical or born digital).
+*	When the extent of a collection changes.
+*	When a collection has physically moved from one location to another.
+*	When a collection is deaccessioned.
+
+The notes field can be used to record:
+
+*	When a collection is being processed.
+*	Restrictions.
+*	Unusual location information.
+*	Notes regarding whether a collection has been deaccessioned or transferred.
+
+The Finding Aid for Books [LINK] provides locations for book collections in the 
+book stacks.
+
+.. _Empty-space-map:
+
+^^^^^^^^^^^^^^^^^^^^^^
+1.4.2 Empty Space Map
+^^^^^^^^^^^^^^^^^^^^^^
+
+.. Collection Services maintains a map of the empty space on Level 11 [LINK].  This 
+map indicates where there is available space for new collections. It should be 
+updated any time collection material is moved to, from, or around on Level 11. The 
+Accessioning and Collections Manager will periodically verify the document to ensure 
+that it is up to date.
+
+.. _Lost-items:
+
+^^^^^^^^^^^^^^^^^
+.. 1.4.3 Lost Items
+^^^^^^^^^^^^^^^^^
+
+.. Occasionally, staff may be unable to locate items in both the manuscript and print 
+collections. 
+
+.. An item is determined to be missing once two staff members plus the Accessioning and Collections Manager and, in the case of print material, the Rare Book Cataloger, have searched for the item and been unable to locate it. 
+
+.. *	For lost manuscript material: 
+
+.. 	*	The Accessioning and Collections Manager will redact the item from the 
+		finding aid (LINK TO REDACTION INSTRUCTION].
+	*	The Accessioning and Collections Manager will add the item to the spreadsheet 
+		for missing items maintained on Box [LINK].
+	*	Every three months the Accessioning and Collections Manager and one other 
+		member of the unit should search for these items again. 
+	*	If the item is found, The Accessioning and Collections Manager will remove it 
+		from the spreadsheet and un-redact the finding aid. 
+	*	If a missing item is later found, Research Services should contact the 
+		researcher and alert them that the item is now available. 
+	*	If the item is not found, the Accessioning and Collections Manager will note 
+		the date of the search in the spreadsheet.
+		
+.. *	For lost print material:
+	
+.. 	*	The rare book cataloger will mark the item as missing in Alma [LINK TO 
+		CATALOGING MANUAL].
+	*	Every three months, the Accessioning and Collections Manager and Rare Book 
+		Cataloger will generate a missing item report from Alma and search for these 
+		items again. 
+	*	If the item is found, the rare book cataloger will remove the missing status 
+		from the item record in Alma. 
+	*	If a missing item is later found, Research Services should contact the 
+		researcher and alert them that the item is now available. 
 
 
