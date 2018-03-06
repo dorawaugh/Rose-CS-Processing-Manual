@@ -830,10 +830,7 @@ unaccessioned material.   All staff members and students have reading access to 
 document, but only collections services and EUA staff can edit the shelf list.
 
 .. Please note that in addition to the Rose stacks and the LSC, the Rose has material 
-stored at CV Fine Art Storage and in dark storage at Access.  The University Records 
-Manager places all requests to retrieve material from Access.  Our contact to 
-retrieve material at CV Fine Art is Steve Cyr, and his extension is 143. The main 
-phone number is 404-733-6200.
+.. stored at CV Fine Art Storage and in dark storage at Access.  The University Records Manager places all requests to retrieve material from Access.  Our contact to retrieve material at CV Fine Art is Steve Cyr, and his extension is 143. The main phone number is 404-733-6200.
 
 The shelf list should be updated:
 
@@ -859,10 +856,10 @@ book stacks.
 ^^^^^^^^^^^^^^^^^^^^^^
 
 .. Collection Services maintains a map of the empty space on Level 11 [LINK].  This 
-map indicates where there is available space for new collections. It should be 
-updated any time collection material is moved to, from, or around on Level 11. The 
-Accessioning and Collections Manager will periodically verify the document to ensure 
-that it is up to date.
+	map indicates where there is available space for new collections. It should be 
+	updated any time collection material is moved to, from, or around on Level 11. 
+	The Accessioning and Collections Manager will periodically verify the document to 
+	ensure that it is up to date.
 
 .. _Lost-items:
 
@@ -871,7 +868,7 @@ that it is up to date.
 ^^^^^^^^^^^^^^^^^
 
 .. Occasionally, staff may be unable to locate items in both the manuscript and print 
-collections. 
+	collections. 
 
 .. An item is determined to be missing once two staff members plus the Accessioning and Collections Manager and, in the case of print material, the Rare Book Cataloger, have searched for the item and been unable to locate it. 
 
