@@ -15,7 +15,7 @@ a collection.
 	they can be located. [#f1]_
 	
 -------------------------------------------
-1. Determine Provenance and Original Order
+1 Determine Provenance and Original Order
 -------------------------------------------
 
 *	Provenance: 1. The origin or source of something. - 2. Information regarding the 
@@ -56,7 +56,7 @@ original order when it's not apparent.  Carefully document your decision-making
 process, as it will form the basis of the processing note [LINK].  
 
 -------------------------------------------
-2. Condition Assessment/Physical Inventory
+2 Condition Assessment/Physical Inventory
 -------------------------------------------
 
 Assess the current physical condition of the collection (this will actually be done 
@@ -78,7 +78,7 @@ extremely fragile material.  Refer to the :doc:`Preservation During Processing
 </Preservation-during-processing>` section for additional information.
 
 --------------------------------------------------
-3. Determine Level of Arrangement and Description
+3 Determine Level of Arrangement and Description
 --------------------------------------------------
 
 Start by analyzing the records (their content and context) at a high level. What does 
