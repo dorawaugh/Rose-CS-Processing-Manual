@@ -21,13 +21,13 @@ described at another.  By breaking apart these two aspects of processing we have
 flexibility in how we approach and make available collections, and we can be more 
 efficient and effective in managing each individual collection and serving our users.
 
---------------------------------------
-Levels of Arrangement and Description
---------------------------------------
+------------------------------------------
+3.1 Levels of Arrangement and Description
+------------------------------------------
 
-^^^^^^^^^^^^
-Accessioned:
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^
+3.1.2 Accessioned:
+^^^^^^^^^^^^^^^^^^^
 
 **Use Cases:** The Accessioning level applies to collections that we receive on 
 deposit, come entirely restricted, or are slated for a more intensive treatment due to 
@@ -62,9 +62,9 @@ review for restrictions at a later date.
 	If there are anticipated privacy considerations or donor-requested restrictions 
 	note that the collection may not accessible.
 	
-^^^^^^^^^^^^^^^^^
-Collection Level:
-^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
+3.1.3 Collection Level:
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Use Cases:** Most newly acquired material will be arranged and described at the 
 collection level and opened to researchers for use.   In some cases there may be an 
@@ -106,9 +106,9 @@ inventory and will remain closed until reviewed for restrictions.
 *	Additional descriptive information can be added at the discretion of the 
 	archivist.
 	
-^^^^^^^^^^^^^^
-Series Level:
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+3.1.4 Series Level:
+^^^^^^^^^^^^^^^^^^^^
 
 **Use cases:** Series level arrangement and description is most appropriate for 
 collections where groupings of material are apparent and relatively distinct.  It is 
@@ -141,9 +141,9 @@ available to researchers prior to a deeper review for restrictions.
 	series or subseries and may be arranged into a logical order (chronological, 
 	etc.).
 
-^^^^^^^^^^^^
-File Level:
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+3.1.5 File Level:
+^^^^^^^^^^^^^^^^^^
 
 **Use cases:** File level arrangement and description is good for collections with 
 high research value, expected high use, collections with anticipated file level 
@@ -182,9 +182,9 @@ restrictions.
 	folders that all comprise one intellectual file can be described at the 
 	aggregated file, rather than folder, level.
 
-^^^^^^^^^^^^
-Item Level:
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
+3.1.6 Item Level:
+^^^^^^^^^^^^^^^^^^
 
 **Use Cases:** Item level arrangement and description is used only under exceptional 
 circumstances. It may be employed when MARBL has a contractual agreement with a donor 
@@ -212,9 +212,9 @@ miscellany collections will likely be arranged and described to this level as we
 *	For certain formats such as art or audiovisual material additional metadata such 
 	as physical form or dimensions may be captured.
 	
------------------------------------
-Assumptions and General Guidelines
------------------------------------
+---------------------------------------
+3.2 Assumptions and General Guidelines
+---------------------------------------
 
 *	"Processed" does not describe one collection state, but rather encompasses a 
 	spectrum of different possible practices of arrangement and description.
@@ -237,9 +237,9 @@ Assumptions and General Guidelines
 *	We can apply different levels of arrangement and description for different series 
 	or subseries in a collection.  
 
----------------------------------------------
-Before Arranging and Describing a Collection
----------------------------------------------
+-------------------------------------------------
+3.3 Before Arranging and Describing a Collection
+-------------------------------------------------
 
 *	Verify that the collection has been formally accessioned (or accession the 
 	collection if the two processes are occurring simultaneously), and clarify any 
@@ -257,16 +257,16 @@ Before Arranging and Describing a Collection
 *	If possible we should identify arrangement and description levels, as well as 
 	preliminary series or other arrangement schemes, at the time of acquisition.
 	
-------------------------------
-Time and Cost Analysis [#f4]_
-------------------------------
+----------------------------------
+3.4 Time and Cost Analysis [#f4]_
+----------------------------------
 
-^^^^^^
-Time:
-^^^^^^
+^^^^^^^^^^^^
+3.4.1 Time:
+^^^^^^^^^^^^
 
 +--------------------------------------+--------------------------------------------+
-| **Level**.                           | **Timeline**.                              |
+| **Level**                            | **Timeline**                               |
 +======================================+============================================+
 | Collection level                     | .5-2 hours per linear foot                 |
 +--------------------------------------+--------------------------------------------+
@@ -282,24 +282,24 @@ Time:
 | Item level                           | 24-30 hours per linear foot                |
 +--------------------------------------+--------------------------------------------+
 
-^^^^^^^^^
-Expense:
-^^^^^^^^^
+^^^^^^^^^^^^^^^
+3.4.2 Expense:
+^^^^^^^^^^^^^^^
 
 +--------------------------------------+--------------------------------------------+
-| **Level**.                           | **Cost per linear foot**                   |
+| **Level**                            | **Cost per linear foot**                   |
 +======================================+============================================+
 | Collection level                     | **Staff:** $20-$80                         |
-|                                      | **Supplies:** $8.45.                       |
+|                                      | **Supplies:** $8.45                        |
 |                                      | **Average Total: $58.45**                  | 
 +--------------------------------------+--------------------------------------------+
 | Series level                         | **Staff:** $80-$200                        |
 |                                      | **Supplies:** $16.87                       |
-|                                      | **Average Total: $157.00 **                |
+|                                      | **Average Total: $157.00**                 |
 +--------------------------------------+--------------------------------------------+
 | File level condition 1               | **Staff:** $240-$480                       |
 | (when material arrives foldered)     | **Supplies:** $23.14                       |
-|                                      | **Average Total:  $383.00**                |
+|                                      | **Average Total: $383.00**                 |
 +--------------------------------------+--------------------------------------------+
 | File level condition 2               | **Staff:** $600-$800                       |
 | (when material is unorganized and    | **Supplies:** $23.14                       |
@@ -307,12 +307,12 @@ Expense:
 +--------------------------------------+--------------------------------------------+
 | Item level                           | **Staff:** $960-$1200                      |
 |                                      | **Supplies:** $45.50                       |
-|                                      | **Average Total: $1125.00                  |
+|                                      | **Average Total: $1125.00**                |
 +--------------------------------------+--------------------------------------------+
 
-----------------------------------
-Levels of Arrangement Quick Guide
-----------------------------------
+--------------------------------------
+3.5 Levels of Arrangement Quick Guide
+--------------------------------------
 
 +--------------------------------------+--------------------------------------------+----------------------------------------------------------------+
 | **Level**                            | **Arrangement**                            | **Actions**                                                    |
@@ -339,9 +339,9 @@ Levels of Arrangement Quick Guide
 |                                      |                                            |                                                                |
 +--------------------------------------+--------------------------------------------+----------------------------------------------------------------+
 
-----------------------------------
-Levels of Description Quick Guide
-----------------------------------
+--------------------------------------
+3.6 Levels of Description Quick Guide
+--------------------------------------
 
 +--------------------------------------+--------------------------------------------+
 | **Level**                            | **Description**                            |

@@ -14,9 +14,9 @@ a collection.
 *	Physical control:  The function of tracking the storage of records to ensure that 
 	they can be located. [#f1]_
 	
--------------------------------------------
-1 Determine Provenance and Original Order
--------------------------------------------
+--------------------------------------------
+2.1 Determine Provenance and Original Order
+--------------------------------------------
 
 *	Provenance: 1. The origin or source of something. - 2. Information regarding the 
 	origins, custody, and ownership of an item or collection.
@@ -55,9 +55,9 @@ on the collection.  Significant time and effort should not be spent recreating
 original order when it's not apparent.  Carefully document your decision-making 
 process, as it will form the basis of the processing note [LINK].  
 
--------------------------------------------
-2 Condition Assessment/Physical Inventory
--------------------------------------------
+--------------------------------------------
+2.2 Condition Assessment/Physical Inventory
+--------------------------------------------
 
 Assess the current physical condition of the collection (this will actually be done 
 concurrently with determining original order).  Begin by briefly examining the 
@@ -77,9 +77,9 @@ like odd smells, mold, signs of insect or rodent infestation, water damage, or
 extremely fragile material.  Refer to the :doc:`Preservation During Processing 
 </Preservation-during-processing>` section for additional information.
 
---------------------------------------------------
-3 Determine Level of Arrangement and Description
---------------------------------------------------
+---------------------------------------------------
+2.3 Determine Level of Arrangement and Description
+---------------------------------------------------
 
 Start by analyzing the records (their content and context) at a high level. What does 
 the collection as a whole tell us? What are the major pieces of the collection and 
@@ -102,9 +102,9 @@ effectively and efficiently meet those goals. In general, you are looking for th
 "golden minimum," the least granular level of arrangement and description that will 
 meet the stated access and use goals for the collection.  [LINK]
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Identifying intellectual units within collections:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2.3.1 Identifying intellectual units within collections:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Archivists will always describe records, at minimum, at the collection level, but 
 most large or more complex collections will have additional groupings of material.  
