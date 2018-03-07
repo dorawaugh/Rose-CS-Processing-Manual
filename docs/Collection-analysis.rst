@@ -75,7 +75,7 @@ materials found there (e.g. correspondence, minutes, financial records), general
 of the materials in each box, formats of the materials, and any preservation issues 
 like odd smells, mold, signs of insect or rodent infestation, water damage, or 
 extremely fragile material.  Refer to the :doc:`Preservation During Processing 
-</Preservation-during-processing.rst>` section for additional information.
+</Preservation-during-processing>` section for additional information.
 
 --------------------------------------------------
 3. Determine Level of Arrangement and Description
