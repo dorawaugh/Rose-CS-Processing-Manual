@@ -12,6 +12,7 @@ Welcome to Rose-CS-Processing-Manual's documentation!
    
    Overview-of-Archival-Processing
    Accessioning-and-precustodial-work
+   Collection-analysis
 
 
 
