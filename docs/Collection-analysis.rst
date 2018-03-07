@@ -12,7 +12,7 @@ a collection.
 *	Intellectual control:  The creation of tools such as catalogs, finding aids, or 
 	other guides that enable users to locate materials relevant to their interests.
 *	Physical control:  The function of tracking the storage of records to ensure that 
-	they can be located.#f1_
+	they can be located. [#f1]_
 	
 -------------------------------------------
 1. Determine Provenance and Original Order
