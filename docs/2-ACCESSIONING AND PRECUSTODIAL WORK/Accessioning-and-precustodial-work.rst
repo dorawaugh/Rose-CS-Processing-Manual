@@ -323,7 +323,7 @@ accessioning team.
 	Collections Manager tags the accessioning team in Box.
 *	The Accessioning and Collections Manager maintains a whiteboard with all new 
 	manuscript acquisitions and marks the ones that are ready for discussion at the 
-	weekly accessioning meeting.
+	weekly accessioning meeting. And it is very good.
 *	During this meeting, the Accessioning and Collections Manager updates the team on 
 	the status of pending collections and gives information on any significant, new 
 	collections that have entered the acquisitions process.
@@ -500,7 +500,7 @@ much information about the collection and its transfer as you can at this stage.
 |*Accessioned By:*	  |	Add your initials.                                           |
 +---------------------+--------------------------------------------------------------+
 
-.. image:: figure2.png 
+
 
 *Example of the Brief Description of Materials field to indicate the establishment of 
 a new collection.*

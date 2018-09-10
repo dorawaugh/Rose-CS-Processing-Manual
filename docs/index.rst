@@ -7,13 +7,14 @@ Welcome to Rose-CS-Processing-Manual's documentation!
 =====================================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Contents:
    
    Overview-of-Archival-Processing
    Accessioning-and-precustodial-work
    Collection-analysis
    Levels-of-arrangement-and-description
+   Description
    Preservation-during-processing
 
 
